@@ -17,12 +17,12 @@
 <br />
 
 
-<!-- [![Daniyal Roomiyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniyalroomiyani&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/Daniyalroomiyani/Daniyalroomiyani)
+ [![Daniyal Roomiyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniyalroomiyani&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/Daniyalroomiyani/Daniyalroomiyani)
 [![Daniyal Roomiyani' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyalroomiyani&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,Daniyalroomiyani.github.io,DeveloperSite)](https://github.com/Daniyalroomiyani/Daniyalroomiyani)
 
-![Metrics](https://github.com/Daniyalroomiyani/Daniyalroomiyani/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/Daniyalroomiyani/Daniyalroomiyani/blob/main/github-metrics.svg) -->
 
- -->
+
 
 
 <!--
